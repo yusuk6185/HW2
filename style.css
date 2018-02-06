@@ -3,7 +3,6 @@ header{
 	font-size: 23pt;
 	font-weight: bold;
 	font-family: Gill Sans MT;
-	text-shadow: 1px 1px 2px grey;
 	margin: 5px 10px;
 }
 body{
@@ -15,7 +14,7 @@ section{
 	max-width:1200px;
 	border-width: 5px;
 	border-style: double;
-	border-color: darkblue;
+	border-color: blue;
 	padding: 10px 20px;
 	margin: 30px 20px 40px 20px;
 }
@@ -32,7 +31,7 @@ aside{
 	font-size: 15pt;
 	border-width: 5px;
 	border-style: double;
-	border-color: darkblue;
+	border-color: blue;
 	width: 300px;
 }
 img{
