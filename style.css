@@ -1,0 +1,46 @@
+header{
+	color: #2488D2;
+	font-size: 23pt;
+	font-weight: bold;
+	font-family: Gill Sans MT;
+	text-shadow: 1px 1px 2px grey;
+	margin: 5px 10px;
+}
+body{
+	background: #E6e6f0;
+		font-family: Gill Sans MT;
+}
+section{
+	font-size: 16pt;
+	max-width:1200px;
+	border-width: 5px;
+	border-style: double;
+	border-color: darkblue;
+	padding: 10px 20px;
+	margin: 30px 20px 40px 20px;
+}
+nav{
+	font-size: 17pt;
+	margin: 5px 15px;
+
+}
+aside{
+	margin: 30px 200px 10px 20px;
+	position: relative;
+	bottom:440px;
+	left: 1300px;
+	font-size: 15pt;
+	border-width: 5px;
+	border-style: double;
+	border-color: darkblue;
+	width: 300px;
+}
+img{
+	width:250px;
+	height:250px;
+	margin: 5px 20px 10px 20px;
+}
+.header{
+	margin: 5px 30px 5px 20px;
+
+}
